@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAppMascota</string>
+    <string name="title_activity_top">Top 5 Mascotas</string>
+
+    <string name="nombre">nombre</string>
+    <string name="cantRaiting">5</string>
+    <string name="action_favorite">Top FIve</string>
+</resources>
